@@ -1,0 +1,6 @@
+# yaml 2 space indent
+root = true
+
+[*.{yaml,yml}]
+indent_style = space
+indent_size = 2

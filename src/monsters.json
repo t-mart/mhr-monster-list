@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Primordial Malzeno",
+    "imageUrl": "./images/Primordial_Malzeno.png"
+  },
+  {
+    "name": "Aknosom",
+    "imageUrl": "./images/Aknosom.png"
+  },
+  {
+    "name": "Almudron",
+    "imageUrl": "./images/Almudron.png"
+  },
+  {
+    "name": "Amatsu",
+    "imageUrl": "./images/Amatsu.png"
+  },
+  {
+    "name": "Anjanath",
+    "imageUrl": "./images/Anjanath.png"
+  },
+  {
+    "name": "Apex Arzuros",
+    "imageUrl": "./images/Apex_Arzuros.png"
+  },
+  {
+    "name": "Apex Diablos",
+    "imageUrl": "./images/Apex_Diablos.png"
+  },
+  {
+    "name": "Apex Mizutsune",
+    "imageUrl": "./images/Apex_Mizutsune.png"
+  },
+  {
+    "name": "Apex Rathalos",
+    "imageUrl": "./images/Apex_Rathalos.png"
+  },
+  {
+    "name": "Apex Rathian",
+    "imageUrl": "./images/Apex_Rathian.png"
+  },
+  {
+    "name": "Apex Zinogre",
+    "imageUrl": "./images/Apex_Zinogre.png"
+  },
+  {
+    "name": "Arzuros",
+    "imageUrl": "./images/Arzuros.png"
+  },
+  {
+    "name": "Astalos",
+    "imageUrl": "./images/Astalos.png"
+  },
+  {
+    "name": "Aurora Somnacanth",
+    "imageUrl": "./images/Aurora_Somnacanth.png"
+  },
+  {
+    "name": "Barioth",
+    "imageUrl": "./images/Barioth.png"
+  },
+  {
+    "name": "Barroth",
+    "imageUrl": "./images/Barroth.png"
+  },
+  {
+    "name": "Basarios",
+    "imageUrl": "./images/Basarios.png"
+  },
+  {
+    "name": "Bazelgeuse",
+    "imageUrl": "./images/Bazelgeuse.png"
+  },
+  {
+    "name": "Bishaten",
+    "imageUrl": "./images/Bishaten.png"
+  },
+  {
+    "name": "Blood Orange Bishaten",
+    "imageUrl": "./images/Blood_Orange_Bishaten.png"
+  },
+  {
+    "name": "Chameleos",
+    "imageUrl": "./images/Chameleos.png"
+  },
+  {
+    "name": "Chaotic Gore Magala",
+    "imageUrl": "./images/Chaotic_Gore_Magala.png"
+  },
+  {
+    "name": "Crimson Glow Valstrax",
+    "imageUrl": "./images/Crimson_Glow_Valstrax.png"
+  },
+  {
+    "name": "Daimyo Hermitaur",
+    "imageUrl": "./images/Daimyo_Hermitaur.png"
+  },
+  {
+    "name": "Diablos",
+    "imageUrl": "./images/Diablos.png"
+  },
+  {
+    "name": "Espinas",
+    "imageUrl": "./images/Espinas.png"
+  },
+  {
+    "name": "Flaming Espinas",
+    "imageUrl": "./images/Flaming_Espinas.png"
+  },
+  {
+    "name": "Furious Rajang",
+    "imageUrl": "./images/Furious_Rajang.png"
+  },
+  {
+    "name": "Gaismagorm",
+    "imageUrl": "./images/Gaismagorm.png"
+  },
+  {
+    "name": "Garangolm",
+    "imageUrl": "./images/Garangolm.png"
+  },
+  {
+    "name": "Gold Rathian",
+    "imageUrl": "./images/Gold_Rathian.png"
+  },
+  {
+    "name": "Gore Magala",
+    "imageUrl": "./images/Gore_Magala.png"
+  },
+  {
+    "name": "Goss Harag",
+    "imageUrl": "./images/Goss_Harag.png"
+  },
+  {
+    "name": "Great Baggi",
+    "imageUrl": "./images/Great_Baggi.png"
+  },
+  {
+    "name": "Great Izuchi",
+    "imageUrl": "./images/Great_Izuchi.png"
+  },
+  {
+    "name": "Great Wroggi",
+    "imageUrl": "./images/Great_Wroggi.png"
+  },
+  {
+    "name": "Jyuratodus",
+    "imageUrl": "./images/Jyuratodus.png"
+  },
+  {
+    "name": "Khezu",
+    "imageUrl": "./images/Khezu.png"
+  },
+  {
+    "name": "Kulu-Ya-Ku",
+    "imageUrl": "./images/Kulu-Ya-Ku.png"
+  },
+  {
+    "name": "Kushala Daora",
+    "imageUrl": "./images/Kushala_Daora.png"
+  },
+  {
+    "name": "Lagombi",
+    "imageUrl": "./images/Lagombi.png"
+  },
+  {
+    "name": "Lucent Nargacuga",
+    "imageUrl": "./images/Lucent_Nargacuga.png"
+  },
+  {
+    "name": "Lunagaron",
+    "imageUrl": "./images/Lunagaron.png"
+  },
+  {
+    "name": "Magma Almudron",
+    "imageUrl": "./images/Magma_Almudron.png"
+  },
+  {
+    "name": "Magnamalo",
+    "imageUrl": "./images/Magnamalo.png"
+  },
+  {
+    "name": "Malzeno",
+    "imageUrl": "./images/Malzeno.png"
+  },
+  {
+    "name": "Mizutsune",
+    "imageUrl": "./images/Mizutsune.png"
+  },
+  {
+    "name": "Nargacuga",
+    "imageUrl": "./images/Nargacuga.png"
+  },
+  {
+    "name": "Narwa the Allmother",
+    "imageUrl": "./images/Narwa_the_Allmother.png"
+  },
+  {
+    "name": "Pukei-Pukei",
+    "imageUrl": "./images/Pukei-Pukei.png"
+  },
+  {
+    "name": "Pyre Rakna-Kadaki",
+    "imageUrl": "./images/Pyre_Rakna-Kadaki.png"
+  },
+  {
+    "name": "Rajang",
+    "imageUrl": "./images/Rajang.png"
+  },
+  {
+    "name": "Rakna-Kadaki",
+    "imageUrl": "./images/Rakna-Kadaki.png"
+  },
+  {
+    "name": "Rathalos",
+    "imageUrl": "./images/Rathalos.png"
+  },
+  {
+    "name": "Rathian",
+    "imageUrl": "./images/Rathian.png"
+  },
+  {
+    "name": "Risen Chameleos",
+    "imageUrl": "./images/Risen_Chameleos.png"
+  },
+  {
+    "name": "Risen Crimson Glow Valstrax",
+    "imageUrl": "./images/Risen_Crimson_Glow_Valstrax.png"
+  },
+  {
+    "name": "Risen Kushala Daora",
+    "imageUrl": "./images/Risen_Kushala_Daora.png"
+  },
+  {
+    "name": "Risen Shagaru Magala",
+    "imageUrl": "./images/Risen_Shagaru_Magala.png"
+  },
+  {
+    "name": "Risen Teostra",
+    "imageUrl": "./images/Risen_Teostra.png"
+  },
+  {
+    "name": "Royal Ludroth",
+    "imageUrl": "./images/Royal_Ludroth.png"
+  },
+  {
+    "name": "Scorned Magnamalo",
+    "imageUrl": "./images/Scorned_Magnamalo.png"
+  },
+  {
+    "name": "Seething Bazelgeuse",
+    "imageUrl": "./images/Seething_Bazelgeuse.png"
+  },
+  {
+    "name": "Seregios",
+    "imageUrl": "./images/Seregios.png"
+  },
+  {
+    "name": "Shagaru Magala",
+    "imageUrl": "./images/Shagaru_Magala.png"
+  },
+  {
+    "name": "Shogun Ceanataur",
+    "imageUrl": "./images/Shogun_Ceanataur.png"
+  },
+  {
+    "name": "Silver Rathalos",
+    "imageUrl": "./images/Silver_Rathalos.png"
+  },
+  {
+    "name": "Somnacanth",
+    "imageUrl": "./images/Somnacanth.png"
+  },
+  {
+    "name": "Teostra",
+    "imageUrl": "./images/Teostra.png"
+  },
+  {
+    "name": "Tetranadon",
+    "imageUrl": "./images/Tetranadon.png"
+  },
+  {
+    "name": "Thunder Serpent Narwa",
+    "imageUrl": "./images/Thunder_Serpent_Narwa.png"
+  },
+  {
+    "name": "Tigrex",
+    "imageUrl": "./images/Tigrex.png"
+  },
+  {
+    "name": "Tobi-Kadachi",
+    "imageUrl": "./images/Tobi-Kadachi.png"
+  },
+  {
+    "name": "Velkhana",
+    "imageUrl": "./images/Velkhana.png"
+  },
+  {
+    "name": "Violet Mizutsune",
+    "imageUrl": "./images/Violet_Mizutsune.png"
+  },
+  {
+    "name": "Volvidon",
+    "imageUrl": "./images/Volvidon.png"
+  },
+  {
+    "name": "Wind Serpent Ibushi",
+    "imageUrl": "./images/Wind_Serpent_Ibushi.png"
+  },
+  {
+    "name": "Zinogre",
+    "imageUrl": "./images/Zinogre.png"
+  }
+]
