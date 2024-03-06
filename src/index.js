@@ -14,6 +14,10 @@ fetch("monsters.json")
 
     const ulElement = document.getElementById("monsters");
     monsters.forEach(({ imageUrl, name }) => {
+      const anchorElement = document.createElement("a");
+      anchorElement.href = `https://www.google.com/search?q=mhr+${encodeURIComponent(name)}`;
+      anchorElement.target = "_blank";
+
       const liElement = document.createElement("li");
       const imgElement = document.createElement("img");
       imgElement.src = imageUrl;
@@ -22,9 +26,10 @@ fetch("monsters.json")
       const nameSpan = document.createElement("span");
       nameSpan.textContent = name;
 
-      liElement.appendChild(imgElement);
-      liElement.appendChild(nameSpan);
       ulElement.appendChild(liElement);
+      liElement.appendChild(anchorElement);
+      anchorElement.appendChild(imgElement);
+      anchorElement.appendChild(nameSpan);
     });
   })
   .catch((error) => {
