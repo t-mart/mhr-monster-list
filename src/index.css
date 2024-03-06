@@ -48,3 +48,15 @@ h1 {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.25);
 }
+
+footer {
+  margin-top: 1rem;
+  text-decoration: underline;
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+footer a:hover {
+  color: #ccc;
+}

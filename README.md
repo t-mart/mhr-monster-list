@@ -1,6 +1,6 @@
 # Monster Hunter Rise Monster List
 
-Hosted at: <https://www.google.com/>
+Hosted at: <https://t-mart.github.io/mhr-monster-list/>
 
 A page listing all of the monsters in Monster Hunter Rise with their on-map icons.
 
